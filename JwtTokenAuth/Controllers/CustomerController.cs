@@ -11,7 +11,7 @@ namespace JwtTokenAuth.Controllers
         [HttpGet, Authorize]
         public IEnumerable<string>  Get()
         {
-            return new string[]  { "john","Doe","naveen"};
+            return new string[]  { "john","Doe","naveen","vivek"};
         }
     }
 }
