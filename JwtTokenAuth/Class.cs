@@ -2,6 +2,6 @@
 {
     public class Class
     {
-        //https://code-maze.com/authentication-aspnetcore-jwt-1/
+        public string Id { get; set; }  
     }
 }
