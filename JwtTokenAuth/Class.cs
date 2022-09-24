@@ -3,6 +3,6 @@
     public class Class
     {
         public string Id { get; set; }  
-        public string Name { get; set; }
+        public int Roll_no { get; set; }
     }
 }
